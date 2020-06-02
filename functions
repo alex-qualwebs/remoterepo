@@ -1,4 +1,6 @@
 public function shubha()
 {
-  echo "you should learn git-hub";
+  $x=$y+$z;
+
+  echo $x;
 }
